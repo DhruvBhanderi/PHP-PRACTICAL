@@ -1,0 +1,40 @@
+body
+{
+	/*background-color: silver;*/
+}
+
+fieldset
+{
+	margin-left: 450px;
+	margin-right: 450px;
+	padding-left: 50px;
+}
+legend
+{
+	font-family: Sitka Small;	
+	text-align: center;
+}
+table
+{
+	font-family: Sitka Small;
+	margin-left: 100px;
+}
+table tr.b td.c
+{
+	padding-left: 100px;	
+}	
+p
+{
+	padding-left: 100px;	
+}
+/*css for form data*/
+table.div1
+{
+	margin-left: 40px;
+}
+fieldset.div2
+{
+	margin-left: 500px;
+	margin-right: 500px;
+	padding-left: 50px;
+}

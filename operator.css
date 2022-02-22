@@ -1,0 +1,80 @@
+body
+{
+	background:linear-gradient(#B8B8B8,#000000);
+}
+section
+{
+	background:linear-gradient(#99ccff,#000099);
+	border: solid 3px;
+	border-radius: 20px;
+	height: 600px;
+	width: 1300px;
+	margin:20px 20px 20px 20px;
+	float: left;
+}
+section table.div1
+{
+	background:linear-gradient(#ffebe6,#ff3300);
+	border: solid 2px;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	margin: 0px 0px 0px 10px;
+	float: left;
+}
+section table.div2
+{
+	background:linear-gradient(#ffffff,#99ccff);
+	border: solid 2px;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	margin: 0px 0px 0px 200px;
+	float: left;
+}
+section table.div3
+{
+	background:linear-gradient(#61fa91,#009900);
+	border: solid 2px;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	margin: 0px 10px 0px 0px;
+	float: right;
+}
+section table.div4
+{
+	background:linear-gradient(#ffcc99,#994d00);
+	border: solid 2px;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	margin: 70px 0px 0px 10px;
+	float: left;
+}
+section table.div5
+{
+	background:linear-gradient(#ffc2b3, #661400);
+	border: solid 2px;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	margin: 70px 0px 0px 200px;
+	float: left;
+}
+section table.div6
+{
+	background:linear-gradient(#9900FF,#990000);
+	border: solid 2px;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+	margin: 70px 10px 0px 0px;
+	float: right;
+}
